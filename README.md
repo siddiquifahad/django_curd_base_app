@@ -12,6 +12,9 @@ Used:
 Python version 3.6.5
 
 Django Framework  version 3.2.5
+<br>
+Html, Css Javascript, Bootstrap
+<br>
 
 Tools:
 VS Code
